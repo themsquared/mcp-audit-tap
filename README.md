@@ -1,5 +1,7 @@
 # mcp-audit-tap
 
+> 📖 **Read the write-up:** [MCP Audit Tap: See What a Third-Party Server Actually Sends](https://webofmike.com/mcp-audit-tap/)
+
 A minimal, protocol-agnostic wiretap for a stdio MCP server. Run any MCP
 server behind it instead of running the server directly, and get a
 structured audit log of every `tools/call` request and result, with
